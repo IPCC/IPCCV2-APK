@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="script.IPCableCloud" name="IP Cable Cloud" version="1.3.0" provider-name="IPCC">
+<addon id="script.IPCableCloudID" name="IPCC ID" version="1.3.0" provider-name="IPCC">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0"/>
 		<import addon="script.module.requests"/>
